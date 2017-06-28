@@ -1,0 +1,9 @@
+Play ScatScout using the command line
+
+To compile the program
+javac ScatScout.java
+
+To run the program
+java ScatScout
+
+This is one of the first programs that I wrote in java
